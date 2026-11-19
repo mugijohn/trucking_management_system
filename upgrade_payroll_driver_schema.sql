@@ -1,0 +1,3 @@
+-- Superseded by upgrade_database_compatibility.sql.
+-- Use the comprehensive, repeatable migration instead of running this legacy
+-- ALTER TABLE statement, which can fail when columns already exist.

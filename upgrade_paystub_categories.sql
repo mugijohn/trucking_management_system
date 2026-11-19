@@ -1,0 +1,2 @@
+-- Superseded by upgrade_database_compatibility.sql.
+-- The comprehensive migration adds missing expenses fields safely and preserves data.
